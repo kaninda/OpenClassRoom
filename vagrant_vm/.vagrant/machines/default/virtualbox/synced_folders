@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kaninda/work/vagrant_vm","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"/Users/kaninda/work/OpenClassRoom_TP3/vagrant_vm","disabled":false,"__vagrantfile":true}}}
