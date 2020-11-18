@@ -1,0 +1,14 @@
+
+.DS_Store
+.DS_Store
+vagrant_vm/.DS_Store
+.DS_Store
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_set_name
+*.swp
+vagrant_vm/data/debian_test
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/private_key
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/index_uuid
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/id
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_set_name
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_provision
+vagrant_vm/.DS_Store
