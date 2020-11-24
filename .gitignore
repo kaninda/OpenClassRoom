@@ -26,3 +26,11 @@ vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/index_uuid
 vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/private_key
 vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_provision
 vagrant_vm/data/text.txt
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/index_uuid
+vagrant_vm/data/text.txt
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/private_key
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/index_uuid
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/id
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_set_name
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_provision
+vagrant_vm/.DS_Store
