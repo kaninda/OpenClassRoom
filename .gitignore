@@ -34,3 +34,11 @@ vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/id
 vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_set_name
 vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_provision
 vagrant_vm/.DS_Store
+vagrant_vm/.vagrant/provisioners/ansible/inventory/vagrant_ansible_inventory
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/vagrant_cwd
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/synced_folders
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/private_key
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/index_uuid
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/id
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_set_name
+vagrant_vm/.vagrant/machines/arnaud-wm/virtualbox/action_provision
